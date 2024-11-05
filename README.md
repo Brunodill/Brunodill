@@ -57,6 +57,10 @@
 
 ###
 
+<p align="center">Total de visitas ao perfil!</p>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Brunodill/count.svg?"  />
 </div>
