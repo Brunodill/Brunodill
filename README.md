@@ -46,12 +46,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="snake.yml" alt="Snake animation" />
-
-###
-
 <h2 align="center">QUANTIDADE DE VISITAS</h2>
 
 ###
